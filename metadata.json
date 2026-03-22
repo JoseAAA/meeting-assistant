@@ -1,0 +1,8 @@
+{
+  "name": "Meeting Assistant",
+  "description": "Asistente de reuniones para IBT GROUP que transcribe y resume reuniones de trabajo, vida social y proyectos personales.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ]
+}
